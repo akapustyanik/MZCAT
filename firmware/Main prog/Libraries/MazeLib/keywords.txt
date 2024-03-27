@@ -1,0 +1,10 @@
+MOTORS	KEYWORD1 		
+encoder	KEYWORD2
+clear_enc	KEYWORD2 	
+follow	KEYWORD2
+attachEnc	KEYWORD2
+setConst	KEYWORD2
+softwarePWM	KEYWORD2
+set	KEYWORD2
+attachMotors	KEYWORD2
+Encoder	LITERAL1

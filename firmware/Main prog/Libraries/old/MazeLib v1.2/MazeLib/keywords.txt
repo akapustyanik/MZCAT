@@ -1,0 +1,13 @@
+MOTORS	KEYWORD1 		
+encoder	KEYWORD2
+clear_enc	KEYWORD2 	
+follow	KEYWORD2
+attachEnc	KEYWORD2
+setConst	KEYWORD2
+comparePinPWM	KEYWORD2
+attachMotors	KEYWORD2
+setA	KEYWORD2
+setB	KEYWORD2
+setC	KEYWORD2
+setD	KEYWORD2
+Encoder	LITERAL1
