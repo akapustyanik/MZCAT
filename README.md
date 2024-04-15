@@ -13,3 +13,5 @@
   Для инерциального модуля собственной разработки был создан отдельный репозиторий по ссылке - https://github.com/akapustyanik/IMU_Sensor_2023
 
   Также был создан YouTube канал с примерами работы робота, который можно посмотерть по ссылке - https://www.youtube.com/@mz_cat
+
+![robot photo4](https://github.com/akapustyanik/MZCAT/assets/130108614/e4337197-5ff7-4a05-bb81-91250d2adee7)
